@@ -1,4 +1,4 @@
-# microbit
+# microbit-eseo
 
 A collection of the commonly used components of the micro:bit runtime with a
 standard configuration, to provide an easy to use interface for programming the micro:bit in C/C++.
